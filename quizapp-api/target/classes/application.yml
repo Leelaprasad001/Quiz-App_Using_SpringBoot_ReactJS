@@ -1,0 +1,23 @@
+server:
+  port: 8080
+spring:
+    devtools:
+        restart:
+            enabled: true
+    application:
+        name: QUIZ-APP
+        version: 1.1
+    datasource:
+        driver-class-name: org.postgresql.Driver
+        password: 123
+        url: jdbc:postgresql://localhost:5432/Question
+        username: postgres
+    jpa:
+        hibernate:
+            ddl-auto: update
+        properties:
+            hibernate:
+                dialect: org.hibernate.dialect.PostgreSQLDialect
+app:
+    cors:
+        allowed-origins: http://localhost:3000

@@ -1,0 +1,12 @@
+com\leela\quizapp\dao\QuestionDoa.class
+com\leela\quizapp\controller\QuizController.class
+com\leela\quizapp\model\Response.class
+com\leela\quizapp\dao\QuizDao.class
+com\leela\quizapp\model\Question.class
+com\leela\quizapp\security\CorsConfig.class
+com\leela\quizapp\controller\QuestionController.class
+com\leela\quizapp\model\Quiz.class
+com\leela\quizapp\QuizappApplication.class
+com\leela\quizapp\service\QuizService.class
+com\leela\quizapp\service\QuestionService.class
+com\leela\quizapp\model\QuestionWrapper.class

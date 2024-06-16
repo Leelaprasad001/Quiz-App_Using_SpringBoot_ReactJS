@@ -1,0 +1,12 @@
+C:\Users\IIPE\Desktop\Leela\quizapp-api\src\main\java\com\leela\quizapp\controller\QuestionController.java
+C:\Users\IIPE\Desktop\Leela\quizapp-api\src\main\java\com\leela\quizapp\dao\QuestionDoa.java
+C:\Users\IIPE\Desktop\Leela\quizapp-api\src\main\java\com\leela\quizapp\model\Response.java
+C:\Users\IIPE\Desktop\Leela\quizapp-api\src\main\java\com\leela\quizapp\service\QuestionService.java
+C:\Users\IIPE\Desktop\Leela\quizapp-api\src\main\java\com\leela\quizapp\controller\QuizController.java
+C:\Users\IIPE\Desktop\Leela\quizapp-api\src\main\java\com\leela\quizapp\QuizappApplication.java
+C:\Users\IIPE\Desktop\Leela\quizapp-api\src\main\java\com\leela\quizapp\dao\QuizDao.java
+C:\Users\IIPE\Desktop\Leela\quizapp-api\src\main\java\com\leela\quizapp\model\Quiz.java
+C:\Users\IIPE\Desktop\Leela\quizapp-api\src\main\java\com\leela\quizapp\service\QuizService.java
+C:\Users\IIPE\Desktop\Leela\quizapp-api\src\main\java\com\leela\quizapp\model\QuestionWrapper.java
+C:\Users\IIPE\Desktop\Leela\quizapp-api\src\main\java\com\leela\quizapp\model\Question.java
+C:\Users\IIPE\Desktop\Leela\quizapp-api\src\main\java\com\leela\quizapp\security\CorsConfig.java

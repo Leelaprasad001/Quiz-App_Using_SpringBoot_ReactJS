@@ -1,0 +1,17 @@
+
+
+.grid {
+  vertical-align: middle;
+}
+.header1{
+  text-align: center;
+  margin-top: 3rem !important;
+}
+.center-buttons {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px; /* Adjust as needed */
+}
+.learn{
+  margin: 2rem 0rem;
+}

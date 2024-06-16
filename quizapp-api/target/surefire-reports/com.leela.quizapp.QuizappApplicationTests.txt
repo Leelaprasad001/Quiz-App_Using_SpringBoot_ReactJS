@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.leela.quizapp.QuizappApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.397 s -- in com.leela.quizapp.QuizappApplicationTests
